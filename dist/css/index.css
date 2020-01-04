@@ -1,0 +1,36 @@
+#logo {
+	width: 64px;
+	height: 64px;
+	padding-left: ;
+}
+
+nav {
+	height: 64px;
+	width: 100%;
+	border-bottom: 1px solid #eeeeee;
+}
+nav li {
+	margin-right: 36px;
+	color: green;
+	text-decoration: none;
+	display: inline-block;
+	list-style: none;
+}
+nav li:hover {
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+#meditating-photo {
+	height: 70vh;
+	display: inline-block;
+}
+
+h1 {
+	color: #2F855A;
+	display: inline-block;
+}
+
+h3 {
+	color: #4299E1;
+}
